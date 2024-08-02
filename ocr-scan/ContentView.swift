@@ -16,7 +16,7 @@ struct ContentView: View {
             Text("Hello, world!")
             Text("Hello, wor")
             Text("Hello, abangku😱!")
-            Text("Hello, adekuku😱kk!")
+            Text("Hello, adekuku😱a!")
             Text("Hello, samuanya😱!")
        
         }
